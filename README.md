@@ -6,8 +6,10 @@ GetGrass.io Auto Farmer | Automate Farming Grass use Python and Proxies.
 3. VPS or RDP (OPTIONAL)
 4. Python version 3.10 or Latest
 ### Buy Proxies
-- Paid Proxies Residental: 
-[Geonix](https://geonix.com/?partner_link=7w04Ij8gwl)
+Paid Proxies Residental: 
+- [Geonix](https://geonix.com/?partner_link=7w04Ij8gwl) Use code ```ashtrobe``` for disocunt on residential proxies.
+
+- [BirdProxies](https://www.birdproxies.com/@ash) Use code ```ash``` for disocunt on residential proxies.
 
 # Notes
 - Run this bot, use my [refferal link](https://app.grass.io/register/?referralCode=LvMb3Nrm_PPy1Zl) if you don't have one.
